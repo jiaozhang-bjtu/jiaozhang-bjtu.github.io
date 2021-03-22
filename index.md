@@ -1,42 +1,47 @@
 ## 欢迎来到张姣个人主页
 
-You can use the [editor on GitHub](https://github.com/jiaozhang-bjt/jiaozhang-bjt.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 个人简介
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiaozhang-bjt/jiaozhang-bjt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+姓名：张姣
+性    别：女
+出生年月：1996/11/18
+现住地址：北京海淀区
+专    业：计算机技术
+学    历：研究生
+研究生GPA：3.35
+
 
 ### 教育背景
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiaozhang-bjt/jiaozhang-bjt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+2015.9-2019.6    燕山大学   软件工程  本科
+2019.9-2022.6 北京交通大学 计算机技术 研究生
+
 
 ### 工作经历
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+2018.7-2018.10  燕软集团  JAVA前端开发  负责**市消防大数据应用系统中前端开发；
+2019.7-2020.11  北京机电工程研究所  C++软件开发  负责**综合控制计算机嵌入式c++软件研发；
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-### 获奖情况
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 荣誉奖励
 
-```markdown
-Syntax highlighted code block
+ASC2018世界大学生超级计算机竞赛，第35名，世界级二等奖。
+2017年华北五省计算机应用大赛，国家级一等奖。
+2017年河北省程序设计大赛，省级二等奖。
+2017-2018连续两年获得燕山大学校级奖学金。
+燕山大学多媒体设计大赛(校级二等奖)。
+燕山大学权益知识竞赛(校级二等奖)。
+燕山大学第四十五届体育运动会展演(校级三等奖)。
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### 兴趣爱好
 
-1. Numbered
-2. List
+读书，豆瓣ID:jiaozhangbjtu。
+刷剧，b站：小懒剧苑。
+打游戏，段位星耀，王者账号：嗨皮犇月*。
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### 联系方式
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+邮箱：jiaozhang_99@sina.com
