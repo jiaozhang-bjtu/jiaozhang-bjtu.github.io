@@ -11,7 +11,6 @@ ___
 - 学    历：研究生  
 - 研究生GPA：3.35  
 
-![img](https://github.com/jiaozhang-bjtu/jiaozhang-bjtu.github.io/blob/main/%E7%85%A7%E7%89%87.png)
 
 ### 教育背景
 
