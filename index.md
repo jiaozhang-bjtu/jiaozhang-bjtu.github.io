@@ -39,7 +39,7 @@ ___
 
 + 读书，[我的豆瓣](https://www.douban.com/people/jiaozhangbjtu/"悬停显示")  
 + 刷剧，[我的b站](https://space.bilibili.com/285279877"悬停显示")  
-+ 打游戏，段位星耀，王者账号：嗨皮犇月*  
++ 打游戏，王者段位星耀，账号：嗨皮犇月*  
 
 
 ### 联系方式
